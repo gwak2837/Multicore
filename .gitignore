@@ -1,5 +1,11 @@
+# CMake
 CMakeFiles
 *.cmake
 CMakeCache.txt
 Makefile
+
+# Java
+.class
+
+# Binary files
 prob1
